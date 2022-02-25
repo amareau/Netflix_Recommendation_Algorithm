@@ -1,5 +1,6 @@
-The aim of this work is : How to recommend content to an user based on their history using graphs ?
+# Création d'algorithmes de recommandation sur la base Netflix France
+L'explication du projet est décrite dans le fichier *Projet - Résumé.pdf*.  
 
-Why Netflix database ?  
-Because I wanted to work on a movie database and to create a recommander system that I may use to myself 
-Content-based Filtering
+# Autrice et Auteur :
+* CARTERON Valentine
+* MAREAU Alexis
